@@ -1,0 +1,13 @@
+aws-cdk-lib>=2.84.0
+constructs>=10.0.0
+notebook==7.0.1
+boto3==1.28.18
+numpy==1.24.4
+psycopg[binary]==3.1.9
+faiss-cpu==1.7.4
+tqdm==4.65.0
+mercantile==1.2.1
+click==8.1.6
+torch==1.9.0
+Pillow==10.0.0
+faiss-cpu==1.7.4
