@@ -3,6 +3,7 @@ FROM python:3.8
 WORKDIR /app
 
 COPY ingest.py .
+COPY database_admin.py .
 COPY requirements.txt .
 
 # Install any required dependencies

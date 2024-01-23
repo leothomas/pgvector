@@ -1,2 +1,16 @@
 data/
 venv/
+.venv
+cdk.out/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+*.egg
+*.py[cod]
+*.swp
+*.log
+*.tmp
+*.tmp.*
+__pycache__/
+encoder.pt
