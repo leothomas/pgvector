@@ -1,2 +1,2 @@
-# pgvectors
-Exploring the `pgvectors` Postgres extensions 
+# pgvector
+Exploring the `pgvector` Postgres extensions 
