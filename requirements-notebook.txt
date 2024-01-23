@@ -1,0 +1,9 @@
+notebook==7.0.1
+torch==1.11.0
+Pillow==10.0.0
+boto3==1.33.12
+tqdm==4.65.0
+numpy==1.24.4
+faiss-cpu==1.7.4
+psycopg[binary]
+vecs @ git+https://github.com/leothomas/vecs@55bc4cc0a07e1c2a535967ce11437129aefce553
